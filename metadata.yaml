@@ -1,11 +1,16 @@
 _repo: The-language-of-flowers-b-The-floral-offering-a-token-of-affection-and-esteem-comprising-the-__71779
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71779-h/images/cover.jpg
 creator:
   author:
     agent_name: Dumont, Henrietta
     gutenberg_agent_id: '56394'
     url: http://www.gutenberg.org/2009/agents/56394
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71779#The-language-of-flowers-b-The-floral-offering-a-token-of-affection-and-esteem-comprising-the-_
 gutenberg_issued: '2023-10-02'
 identifiers:
   gutenberg: '71779'
